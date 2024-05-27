@@ -8,7 +8,7 @@
         <li><strong>Feedback Sonoro:</strong> Utiliza um buzzer para dar feedback sonoro, indicando erros e acertos, bem como tocando sons de sucesso quando a tarefa é concluída corretamente.</li>
     </ul>
     <div> 
-        <img src="![IMG_7371](https://github.com/henriquepmartins/ludere/assets/125284120/d38efc47-11be-4af2-ad41-9359457bb48c)" width="200px"/>
+        <img src="https://github.com/henriquepmartins/ludere/assets/125284120/d38efc47-11be-4af2-ad41-9359457bb48c" width="200px"/>
     </div>
     <h2>Diferenciais do Projeto ✨</h2>
     <ul>
