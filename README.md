@@ -102,3 +102,5 @@
     <p>Este projeto está licenciado sob a <a href="LICENSE">Licença MIT</a>.</p>
     <h2>Agradecimentos 🙏</h2>
     <p>Agradecemos a todos os que contribuíram para o desenvolvimento deste projeto e aos educadores da Ilha do Combu que nos inspiraram a criar o Luderê.</p>
+    <h2>Equipe</h2>
+    <p>Antônio Heitor, Cauã Maia, Elissandra Abdon, Giovanni Braga, Henrique Pereira, Matheus Azevedo, Meg Nicolle de Borborema, Rafael Verde e Renan Almeida </p>
